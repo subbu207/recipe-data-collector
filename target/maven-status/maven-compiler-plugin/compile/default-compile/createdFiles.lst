@@ -1,0 +1,7 @@
+com/example/recipeapi/DataLoader$1.class
+com/example/recipeapi/repository/RecipeRepository.class
+com/example/recipeapi/controller/RecipeController.class
+com/example/recipeapi/service/RecipeService.class
+com/example/recipeapi/RecipeApiApplication.class
+com/example/recipeapi/DataLoader.class
+com/example/recipeapi/model/Recipe.class
